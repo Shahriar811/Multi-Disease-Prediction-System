@@ -1,0 +1,7 @@
+Creatinine,BUN (Blood Urea Nitrogen),GFR (Glomerular Filtration Rate),Urine Output (mL/day),Diabetes,Hypertension,Age,Protein in Urine,Water Intake (L/day),Medication,output,timestamp
+1,15,90,1500,0,0,45,100,2,No Medication,"✅ **No Kidney Disease Detected**
+
+Probability of No Disease: 100.00%
+Probability of Disease: 0.00%
+
+**Recommendation:** Continue maintaining a healthy lifestyle.",2025-12-13 03:43:19.355459
